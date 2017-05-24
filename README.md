@@ -1,4 +1,4 @@
-# React Skeletal
+# Skeletal React
 
 A boilerplate for React apps
 
